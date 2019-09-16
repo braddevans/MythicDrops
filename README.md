@@ -4,6 +4,9 @@ have unique names, lore, and enchantments added randomly to them through a tier 
 
 ![Bintray](https://img.shields.io/bintray/v/pixeloutlaw/mythicdrops/MythicDrops?style=flat-square)
 
+forked from:
+http://github.com/PixelOutlaw/MythicDrops
+
 ## How To Get It (Server Runners)
 https://www.spigotmc.org/resources/mythicdrops.6114/
 
